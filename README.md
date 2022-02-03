@@ -29,7 +29,7 @@ git clone https://github.com/igorjuancc/desafio-tunts
 
 3. Insira o arquivo json com as credenciais na pasta src/main/resources do projeto com o nome "credentials.json"
 
-4. Para iniciar a execução, na pasta raiz do projeto execute o comando
+4. Para iniciar o programa, na pasta raiz do projeto execute o comando
 ```
 gradle run
 ```
