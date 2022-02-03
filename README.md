@@ -33,6 +33,7 @@ git clone https://github.com/igorjuancc/desafio-tunts
 ```
 gradle run
 ```
+5. Confira os dados alterados na [planilha](https://docs.google.com/spreadsheets/d/1FKzYQ76Z40y7pyr6SZ2bON3Gm4G4OCLnW22yCEgGAgQ/edit#gid=0) 
 
 ### Sobre
 
