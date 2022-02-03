@@ -36,7 +36,7 @@ gradle run
 
 ### Sobre
 
-A implementação dessa atividade foi desenvolvida como critério de avaliação para a empresa Tunts no ano de 2022.  
+A implementação dessa atividade foi desenvolvida como critério de avaliação para a empresa [Tunts](https://tunts.com/) no ano de 2022.  
 
 ### Documentação
 
