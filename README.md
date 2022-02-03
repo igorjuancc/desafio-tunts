@@ -40,7 +40,7 @@ A implementação dessa atividade foi desenvolvida como critério de avaliação
 
 ### Documentação
 
-A descrição, requisitos e objetico dessa atividade pode ser encontrado no seguinte [link](https://github.com/igorjuancc/BiblioDoc/blob/main/desafio-tunts/TUNTS%20-%20DESAFIO%20DE%20PROGRAMA%C3%87%C3%83O%20-%20N%C3%ADVEL%201.pdf).
+A descrição, requisitos e objetivos dessa atividade pode ser encontrado no seguinte [link](https://github.com/igorjuancc/BiblioDoc/blob/main/desafio-tunts/TUNTS%20-%20DESAFIO%20DE%20PROGRAMA%C3%87%C3%83O%20-%20N%C3%ADVEL%201.pdf).
 
 ### Autor
 <a href="https://br.linkedin.com/in/igor-juan-cordeiro-da-costa-2b4a77101">
